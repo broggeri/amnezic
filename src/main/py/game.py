@@ -11,16 +11,17 @@ import util
 
 default_nb_question = 42
 default_nb_choice = 6
-
+default_with_hint = True
 
 # ##################################################
 # game
 
-def create(json_tracks=None, json_file=None, json_url=None, nb_question=None, nb_choice=None):
+def create(json_tracks=None, json_file=None, json_url=None, nb_question=None, nb_choice=None, with_hint=None):
     json_tracks = json_tracks or util.create(json_file=json_file, json_url=json_url)
     ordered_tracks = json_tracks.tracks or json_tracks or []
-    nb_question = nb_question or default_nb_question
-    nb_choice = nb_choice or default_nb_choice
+    nb_question = nb_question if nb_question is not None else  default_nb_question
+    nb_choice = nb_choice if nb_choice is not None else  default_nb_choice
+    with_hint = with_hint if with_hint is not None else default_with_hint
 
     # filter track without genre
     ordered_tracks = [track for track in ordered_tracks if track.genre is not None]
@@ -76,7 +77,8 @@ def create(json_tracks=None, json_file=None, json_url=None, nb_question=None, nb
             candidate = ordered_tracks[candidate_id]
             choice = util.create()
             choice.answer = candidate.artist
-            choice.hint = candidate.title
+            if with_hint:
+                choice.hint = candidate.title
             question.choices.append(choice)
 
         # shuffle choices

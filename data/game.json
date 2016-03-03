@@ -1,71 +1,104 @@
 {
-    "nb_choice": 6,
-    "nb_question": 42,
     "questions": [
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Rem2-14bis-07.mp3"
+                "mp3": "http://cache.amnezic.com/41072_ACDC_GirlsGotRhythm_1979.mp3"
             },
             "choices": [
                 {
-                    "answer": "Dire Straits",
-                    "hint": "Your latest trick"
+                    "answer": "Bob Marley",
+                    "hint": "Get up, stand up"
                 },
                 {
-                    "answer": "Bad Religion",
+                    "answer": "Serge Gainsbourg",
+                    "hint": "Relax Baby Be Cool"
+                },
+                {
+                    "answer": "AC/DC",
                     "correct": true,
-                    "hint": "Generator"
+                    "hint": "Girls Got Rhythm"
                 },
                 {
-                    "answer": "Hanson",
-                    "hint": "Mmmbop"
+                    "answer": "Chico Buarque",
+                    "hint": "Lola"
                 },
                 {
-                    "answer": "Smash mouth",
-                    "hint": "Nervous alley"
+                    "answer": "Ry Cooder",
+                    "hint": "Stand By Me"
                 },
                 {
-                    "answer": "Berurier Noir",
-                    "hint": "L'empereur tomato-ketchup"
-                },
-                {
-                    "answer": "REM",
-                    "hint": "Shiny happy people"
+                    "answer": "Elvis Presley",
+                    "hint": "Tomorrow Never Comes"
                 }
             ],
             "theme": {
-                "genre": "Rock et Rock chevelu"
+                "genre": "Les ann\u00e9es 1970"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/11%20approchez.mp3"
+                "mp3": "http://cache.amnezic.com/24478_Zucchero_Overdose(Damore)_1996.mp3"
             },
             "choices": [
                 {
-                    "answer": "Claude Francois",
-                    "hint": "Si j'avais un marteau"
+                    "answer": "Supr&#234;me NTM",
+                    "hint": "La fi&#232;vre"
                 },
                 {
-                    "answer": "Tryo",
-                    "hint": "C'est du roots"
-                },
-                {
-                    "answer": "Louise attaque",
-                    "hint": "Ton invitation"
-                },
-                {
-                    "answer": "Gold",
-                    "hint": "Capitaine abandonne"
-                },
-                {
-                    "answer": "Benabar",
+                    "answer": "Zucchero",
                     "correct": true,
-                    "hint": "approchez"
+                    "hint": "Overdose (D'amore)"
                 },
                 {
-                    "answer": "France Gall",
-                    "hint": "Ella"
+                    "answer": "The Gathering",
+                    "hint": "Mandylion"
+                },
+                {
+                    "answer": "Amr Diab ### Cheb Khaled",
+                    "hint": "Qalbi"
+                },
+                {
+                    "answer": "Aimee Mann",
+                    "hint": "Sugarcoated"
+                },
+                {
+                    "answer": "Popa Chubby",
+                    "hint": "Isis"
+                }
+            ],
+            "theme": {
+                "genre": "Les ann\u00e9es 1990"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Tim2-PotPouriiFrancais-20.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Les Negresses Vertes",
+                    "hint": "Hou mamma mia"
+                },
+                {
+                    "answer": "Renaud",
+                    "correct": true,
+                    "hint": "Docteur Renaud Mister Renard"
+                },
+                {
+                    "answer": "J.L. Aubert",
+                    "hint": "Temps nouveau que l'on nomme p"
+                },
+                {
+                    "answer": "Brassens",
+                    "hint": "Chanson pour l'auvergnat"
+                },
+                {
+                    "answer": "Renaud",
+                    "hint": "Hexagone"
+                },
+                {
+                    "answer": "Matmatah",
+                    "hint": "Emma"
                 }
             ],
             "theme": {
@@ -74,112 +107,77 @@
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/14%20Piste%2014.MP3"
+                "mp3": "http://cache.amnezic.com/113651_CirqueDuSoleil_Alegria_1994.mp3"
             },
             "choices": [
                 {
-                    "answer": "Technotronic",
-                    "hint": "Pump up the jam"
-                },
-                {
-                    "answer": "Spandau Ballet",
-                    "hint": "True"
-                },
-                {
-                    "answer": "Eight",
-                    "hint": "let the music.."
-                },
-                {
-                    "answer": "Vitalic",
-                    "hint": "Polkamatic"
-                },
-                {
-                    "answer": "Kong",
+                    "answer": "Cirque Du Soleil",
                     "correct": true,
-                    "hint": "The Dj saved my life [Reprise]"
+                    "hint": "Alegria"
                 },
                 {
-                    "answer": "S Express",
-                    "hint": "s express"
+                    "answer": "Zucchero",
+                    "hint": "Overdose (D'amore)"
+                },
+                {
+                    "answer": "Donna Summer",
+                    "hint": "Could It Be Magic"
+                },
+                {
+                    "answer": "Mary J. Blige",
+                    "hint": "Your Child"
+                },
+                {
+                    "answer": "Lamb",
+                    "hint": "B Line"
+                },
+                {
+                    "answer": "The Verve",
+                    "hint": "Bitter sweet symphony"
                 }
             ],
             "theme": {
-                "genre": "Disco - Techno"
+                "genre": "Les ann\u00e9es 1990"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Rem2-06-13.mp3"
+                "mp3": "http://cache.amnezic.com/Rem2-07-11.mp3"
             },
             "choices": [
                 {
-                    "answer": "Indochine",
-                    "hint": "Tes yeux noirs"
+                    "answer": "Noir Desir",
+                    "hint": "Un jour en France"
                 },
                 {
-                    "answer": "Phil Collins",
-                    "hint": "Something happened on the way"
+                    "answer": "Green Day",
+                    "hint": "Basket Case"
                 },
                 {
-                    "answer": "Depeche Mode",
-                    "hint": "Enjoy the silence"
+                    "answer": "Noir Desir",
+                    "hint": "l'homme presse"
                 },
                 {
-                    "answer": "AHA",
-                    "hint": "Take on me"
+                    "answer": "Offspring",
+                    "hint": "Pretty fly"
                 },
                 {
-                    "answer": "Bonnie Taylor",
+                    "answer": "No one innocent",
                     "correct": true,
-                    "hint": "Total eclipse of the heart"
+                    "hint": "La peau"
                 },
                 {
-                    "answer": "Blondie",
-                    "hint": "Heart of glass"
+                    "answer": "Bruce Springsteen",
+                    "hint": "Born in the usa"
                 }
             ],
             "theme": {
-                "genre": "Ann\u00e9es 80"
+                "genre": "Rock et Rock chevelu"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Tim10-08.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Will Smith",
-                    "hint": "gettin jiggy wit it"
-                },
-                {
-                    "answer": "Marvin Gaye",
-                    "hint": "Stand by me"
-                },
-                {
-                    "answer": "Doc Gyneco",
-                    "hint": "Ma Salope \u00e0 moi"
-                },
-                {
-                    "answer": "Doc Gyneco",
-                    "hint": "Passement de jambe"
-                },
-                {
-                    "answer": "Bob Marley",
-                    "hint": "Exodus"
-                },
-                {
-                    "answer": "UB40",
-                    "correct": true,
-                    "hint": "I got you babe"
-                }
-            ],
-            "theme": {
-                "genre": "Rap - RnB"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/3683_GoldenGateQuart_Didntitrain_1955.mp3"
+                "mp3": "http://cache.amnezic.com/36142_JoeTex_KingoftheRoad_1966.mp3"
             },
             "choices": [
                 {
@@ -187,95 +185,60 @@
                     "hint": "Oh happy day"
                 },
                 {
-                    "answer": "Golden Gate Quartet",
-                    "hint": "Swing low, sweet chariot"
+                    "answer": "B.B. King",
+                    "hint": "Country Girl"
                 },
                 {
-                    "answer": "Golden Gate Quartet",
-                    "hint": "Shadrack"
+                    "answer": "Sly and the Family Stone",
+                    "hint": "Everybody is a star"
                 },
                 {
-                    "answer": "Golden Gate Quartet",
+                    "answer": "Aretha Franklin",
+                    "hint": "(I Can't Get No) Satisfaction@@Live Paris"
+                },
+                {
+                    "answer": "Joe Tex",
                     "correct": true,
-                    "hint": "Didn't it rain"
+                    "hint": "King of the Road"
                 },
                 {
-                    "answer": "Marvin Sapp",
-                    "hint": "Worshipper In Me"
-                },
-                {
-                    "answer": "Marvin Sapp",
-                    "hint": "Worshipper In Me"
+                    "answer": "Donovan",
+                    "hint": "Hey Gyp ( Dig The Slowness )"
                 }
             ],
             "theme": {
-                "genre": "Gospel"
+                "genre": "Les ann\u00e9es 1960"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/74664_SimplePlan_SaveYou_2008.mp3"
+                "mp3": "http://cache.amnezic.com/Rem2-09-20.mp3"
             },
             "choices": [
                 {
-                    "answer": "Kelly Clarkson",
-                    "hint": "Since u been gone"
+                    "answer": "Sheila",
+                    "hint": "L'ecole est finie"
                 },
                 {
-                    "answer": "Prince",
-                    "hint": "Purple rain"
+                    "answer": "Cookie Dingler",
+                    "hint": "Femme Liberee"
                 },
                 {
-                    "answer": "Madonna",
-                    "hint": "Frozen [Edit]"
+                    "answer": "Francois Valery",
+                    "hint": "Aimons nous vivant"
                 },
                 {
-                    "answer": "The Mamas and The Papas",
-                    "hint": "California Dreamin'"
+                    "answer": "Johny",
+                    "hint": "Que je t'aime"
                 },
                 {
-                    "answer": "Cutting Crew",
-                    "hint": "Fear Of Falling"
-                },
-                {
-                    "answer": "Simple Plan",
+                    "answer": "Dalida",
                     "correct": true,
-                    "hint": "Save You"
-                }
-            ],
-            "theme": {
-                "genre": "Pop"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Rem2-08-13.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "F. Gray &#38; D. Barbelivien",
-                    "hint": "A toutes les filles"
+                    "hint": "Il venait d'avoir 18ans"
                 },
                 {
-                    "answer": "Les Maisonnettes",
-                    "hint": "Heartache Avenue"
-                },
-                {
-                    "answer": "Alain Bashung",
-                    "hint": "Osez Josephine"
-                },
-                {
-                    "answer": "Jane Birkin",
-                    "correct": true,
-                    "hint": "Ex-Fan des sixties"
-                },
-                {
-                    "answer": "Simon &#38; Garfunkel",
-                    "hint": "Mrs Robinson"
-                },
-                {
-                    "answer": "Dave",
-                    "hint": "Du cote de chez Swan"
+                    "answer": "Julien Clerc",
+                    "hint": "Ce n'est rien"
                 }
             ],
             "theme": {
@@ -284,184 +247,258 @@
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/4666_KeziahJones_Millionmilesfromhome_1995.mp3"
+                "mp3": "http://cache.amnezic.com/3692_GoldenGateQuart_Swinglowsweetchariot_1955.mp3"
             },
             "choices": [
                 {
-                    "answer": "Sir Joe Quarterman and Free Soul",
-                    "hint": "So much trouble in my mind"
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Didn't it rain"
                 },
                 {
-                    "answer": "Jamiroquai",
-                    "hint": "Stop Don't Panic"
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Down by the riverside"
                 },
                 {
-                    "answer": "Jamiroquai",
-                    "hint": "Emergency On Planet Earth"
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Shadrack"
                 },
                 {
-                    "answer": "Keziah Jones",
+                    "answer": "Golden Gate Quartet",
                     "correct": true,
-                    "hint": "Million miles from home"
+                    "hint": "Swing low, sweet chariot"
                 },
                 {
-                    "answer": "Sly and the Family Stone",
-                    "hint": "Luv n' haight"
+                    "answer": "John Coltrane",
+                    "hint": "Spiral"
                 },
                 {
-                    "answer": "James Brown",
-                    "hint": "I'm real"
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Swing low, sweet chariot"
                 }
             ],
             "theme": {
-                "genre": "Funk"
+                "genre": "Les ann\u00e9es 1950"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/25809_Beethoven_Symphonyn1765-mvtn17.mp3"
+                "mp3": "http://cache.amnezic.com/11%20Ma%20pr%C3%A9f%C3%A9rence.mp3"
             },
             "choices": [
                 {
-                    "answer": "Mozart",
-                    "hint": "Piano sonata K545 - mvt n&#176;1@@Mitsuko Uchida"
-                },
-                {
-                    "answer": "Tchaikovsky",
-                    "hint": "Nutcracker - Danse russe Trepak"
-                },
-                {
-                    "answer": "Liszt",
-                    "hint": "La Campanella"
-                },
-                {
-                    "answer": "Beethoven",
-                    "hint": "Piano sonata n&#176;18 - mvt n&#176;1@@Alfred Brendel"
-                },
-                {
-                    "answer": "Khachaturian",
-                    "hint": "Gayaneh - Sabre Dance"
-                },
-                {
-                    "answer": "Beethoven",
+                    "answer": "Julien Clerc",
                     "correct": true,
-                    "hint": "Symphony n&#176;5 - mvt n&#176;2@@Herbert von Karajan"
+                    "hint": "Ma pr\u00e9f\u00e9rence"
+                },
+                {
+                    "answer": "Gout de Luxe",
+                    "hint": "Les yeux de Laura"
+                },
+                {
+                    "answer": "Thierry Pastor",
+                    "hint": "Le coup de folie"
+                },
+                {
+                    "answer": "Mickey 3D",
+                    "hint": "Matador"
+                },
+                {
+                    "answer": "Willy Denzey",
+                    "hint": "Number One"
+                },
+                {
+                    "answer": "Francis Cabrel",
+                    "hint": "Octobre"
                 }
             ],
             "theme": {
-                "genre": "Classique"
+                "genre": "France"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Tim2-ComediesMusicales-02.mp3"
+                "mp3": "http://cache.amnezic.com/24668_PaoloConte_Viaconme_1985.mp3"
             },
             "choices": [
                 {
-                    "answer": "Nomads",
-                    "hint": "Yakalelo"
+                    "answer": "John Lennon",
+                    "hint": "Woman"
                 },
                 {
-                    "answer": "Ace of Base",
-                    "hint": "All that she wants"
-                },
-                {
-                    "answer": "Henri Salvador",
-                    "hint": "Mais non, mais non"
-                },
-                {
-                    "answer": "Zouk Machine",
-                    "hint": "Maldon"
-                },
-                {
-                    "answer": "Cindy",
+                    "answer": "Paolo Conte",
                     "correct": true,
-                    "hint": "Cindy"
+                    "hint": "Via con me"
                 },
                 {
-                    "answer": "Simon et les modanais",
-                    "hint": "Etoiles des neiges"
+                    "answer": "Patrick Bruel",
+                    "hint": "Alors regarde"
+                },
+                {
+                    "answer": "The Beastie Boys",
+                    "hint": "Looking Down the Barrel of a Gun"
+                },
+                {
+                    "answer": "Top gun",
+                    "hint": "Take my breath away (love theme from 'top gun')"
+                },
+                {
+                    "answer": "George Benson",
+                    "hint": "Give me the night"
                 }
             ],
             "theme": {
-                "genre": "Compil'"
+                "genre": "Les ann\u00e9es 1980"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Mylo%20-%20Valley%20of%20the%20dolls.mp3"
+                "mp3": "http://cache.amnezic.com/12381_Assassin_Shootababylone_1996.mp3"
             },
             "choices": [
                 {
-                    "answer": "Mylo",
+                    "answer": "Assassin",
                     "correct": true,
-                    "hint": "Valley of the dolls"
+                    "hint": "Shoota babylone"
                 },
                 {
-                    "answer": "ABBA",
-                    "hint": "Gimme Gimme Gimme.mp3"
+                    "answer": "Gym Class Heroes",
+                    "hint": "No Place To Run"
                 },
                 {
-                    "answer": "Boney M",
-                    "hint": "Rasputin"
+                    "answer": "Ll Cool J",
+                    "hint": "Greatest of all time"
                 },
                 {
-                    "answer": "Cerrone",
-                    "hint": "Give Me Love (House Mix)"
+                    "answer": "Gang Starr",
+                    "hint": "work"
                 },
                 {
-                    "answer": "Soft Cell",
-                    "hint": "Tainted love"
+                    "answer": "De La Soul",
+                    "hint": "Big Brother Beat"
                 },
                 {
-                    "answer": "Snap",
-                    "hint": "Rythm is the dancer"
+                    "answer": "Eminem",
+                    "hint": "Lose yourself"
                 }
             ],
             "theme": {
-                "genre": "Disco - Techno"
+                "genre": "Rap"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/36007_B.B.King_(ILoveYou)ForSentime_2003.mp3"
+                "mp3": "http://cache.amnezic.com/10%20Silencio.mp3"
             },
             "choices": [
                 {
-                    "answer": "B.B. King",
-                    "hint": "Country Girl"
+                    "answer": "James Bond",
+                    "hint": "Tim09-02"
                 },
                 {
-                    "answer": "B.B. King",
-                    "hint": "Sweet sixteen"
+                    "answer": "The Big Lebowski",
+                    "hint": "Techno Pop"
                 },
                 {
-                    "answer": "Stevie Ray Vaughan",
-                    "hint": "Crossfire"
+                    "answer": "Ennio Moricone",
+                    "hint": "Le Bon - La Brute et le Truand"
                 },
                 {
-                    "answer": "B.B. King",
+                    "answer": "Twilight",
+                    "hint": "Flightless Bird, American Mouth"
+                },
+                {
+                    "answer": "Fight Club",
+                    "hint": "Where Is My Mind?"
+                },
+                {
+                    "answer": "Mulholland Drive",
                     "correct": true,
-                    "hint": "(I Love You) For Sentimental Reasons"
-                },
-                {
-                    "answer": "Joe Tex",
-                    "hint": "One Monkey Don't Stop No Show"
-                },
-                {
-                    "answer": "John Lee Hooker",
-                    "hint": "I'm In The Mood"
+                    "hint": "Silencio"
                 }
             ],
             "theme": {
-                "genre": "Blues"
+                "genre": "Musique de Film"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/61976_Nightwish_WalkingInTheAir_1998.mp3"
+                "mp3": "http://cache.amnezic.com/Craig%20David%20-%20seven%20Days.mp3"
             },
             "choices": [
+                {
+                    "answer": "Madonna",
+                    "hint": "Hung up"
+                },
+                {
+                    "answer": "Blackeyed Peas",
+                    "hint": "Where is the Love"
+                },
+                {
+                    "answer": "Gwen Stefani",
+                    "hint": "What You Waiting For"
+                },
+                {
+                    "answer": "Craig David",
+                    "correct": true,
+                    "hint": "Seven Days"
+                },
+                {
+                    "answer": "Pink",
+                    "hint": "Family Portrait"
+                },
+                {
+                    "answer": "James Blunt",
+                    "hint": "Tears And Rain"
+                }
+            ],
+            "theme": {
+                "genre": "International"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Tim2-PotPouriiFrancais-10.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Marc lavoine",
+                    "hint": "Le parking des anges"
+                },
+                {
+                    "answer": "Thierry Pastor",
+                    "hint": "Le coup de folie"
+                },
+                {
+                    "answer": "Etienne Daho",
+                    "hint": "Me manquer"
+                },
+                {
+                    "answer": "Desireless",
+                    "correct": true,
+                    "hint": "Voyage Voyage"
+                },
+                {
+                    "answer": "Claude Francois",
+                    "hint": "Belles belles belles"
+                },
+                {
+                    "answer": "Brassens",
+                    "hint": "Les trompettes de la renommee"
+                }
+            ],
+            "theme": {
+                "genre": "France"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/160736_Ulver_Eos_2007.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Edguy",
+                    "hint": "Babylon"
+                },
                 {
                     "answer": "AC/DC",
                     "hint": "Girls Got Rhythm"
@@ -471,21 +508,17 @@
                     "hint": "You Shook Me All Night Long"
                 },
                 {
+                    "answer": "The Gathering",
+                    "hint": "Mandylion"
+                },
+                {
+                    "answer": "Ulver",
+                    "correct": true,
+                    "hint": "Eos"
+                },
+                {
                     "answer": "Quiet Riot",
                     "hint": "Cum on feel the noize"
-                },
-                {
-                    "answer": "Nightwish",
-                    "correct": true,
-                    "hint": "Walking In The Air"
-                },
-                {
-                    "answer": "AC/DC",
-                    "hint": "Highway to hell"
-                },
-                {
-                    "answer": "AC/DC",
-                    "hint": "Girls Got Rhythm"
                 }
             ],
             "theme": {
@@ -494,44 +527,403 @@
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/13289_MariaBethnia_Alguemmeavisou_1996.mp3"
+                "mp3": "http://cache.amnezic.com/Rem2-11-03.mp3"
             },
             "choices": [
                 {
-                    "answer": "Madonna",
-                    "hint": "Secret"
-                },
-                {
-                    "answer": "Nightwish",
-                    "hint": "Walking In The Air"
-                },
-                {
-                    "answer": "Maria Beth&#226;nia",
+                    "answer": "Chapi Chapo",
                     "correct": true,
-                    "hint": "Alguem me avisou"
+                    "hint": "Rem2-11-03"
                 },
                 {
-                    "answer": "Assassin",
-                    "hint": "Shoota babylone"
+                    "answer": "Heidi",
+                    "hint": "Rem2-12-02"
                 },
                 {
-                    "answer": "The Verve",
-                    "hint": "Bitter sweet symphony"
+                    "answer": "Nicky Larson",
+                    "hint": "Rem2-11-17"
                 },
                 {
-                    "answer": "Zazie",
-                    "hint": "Zen"
+                    "answer": "Jayce",
+                    "hint": "Rem2-12-07"
+                },
+                {
+                    "answer": "Ulysse 31",
+                    "hint": "Debut"
+                },
+                {
+                    "answer": "Capitaine Flam",
+                    "hint": "Rem2-11-22"
                 }
             ],
             "theme": {
-                "genre": "Les ann\u00e9es 1990"
+                "genre": "Dessins anim\u00e9s"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Tim2-Daube-12.mp3"
+                "mp3": "http://cache.amnezic.com/Rem2-05-07.mp3"
             },
             "choices": [
+                {
+                    "answer": "Julien Clerc",
+                    "hint": "Fais moi une place"
+                },
+                {
+                    "answer": "Guantanamera",
+                    "hint": "Rem2-05-06"
+                },
+                {
+                    "answer": "Obispo",
+                    "hint": "Lucy"
+                },
+                {
+                    "answer": "J.J. Goldman",
+                    "hint": "C'est de la chance"
+                },
+                {
+                    "answer": "Edith Piaf",
+                    "hint": "L'hymme a l'amour"
+                },
+                {
+                    "answer": "Diane Tell",
+                    "correct": true,
+                    "hint": "Si j'etais un homme"
+                }
+            ],
+            "theme": {
+                "genre": "Flute de pan et Piano"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Indochine%20-%20Canary%20Bay.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Eskobar &#38; Emma Daumas",
+                    "hint": "You Got Me (2005)"
+                },
+                {
+                    "answer": "Elvis Presley",
+                    "hint": "There Goes My Everything"
+                },
+                {
+                    "answer": "Elvis Presley",
+                    "hint": "Make the World Go Away"
+                },
+                {
+                    "answer": "Franz Ferdinand",
+                    "hint": "Come On Home"
+                },
+                {
+                    "answer": "Indochine",
+                    "correct": true,
+                    "hint": "Canary Bay"
+                },
+                {
+                    "answer": "Roxy Music",
+                    "hint": "Avalon"
+                }
+            ],
+            "theme": {
+                "genre": "Rock"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/5039_LlCoolJ_Greatestofalltime_1995.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Supr&#234;me NTM",
+                    "hint": "La fi&#232;vre"
+                },
+                {
+                    "answer": "The Beastie Boys",
+                    "hint": "Fight For Your Right"
+                },
+                {
+                    "answer": "Fergie",
+                    "hint": "Fergalicious"
+                },
+                {
+                    "answer": "Tech N9ne",
+                    "hint": "Slacker"
+                },
+                {
+                    "answer": "Ll Cool J",
+                    "correct": true,
+                    "hint": "Greatest of all time"
+                },
+                {
+                    "answer": "Kanye West",
+                    "hint": "I wonder"
+                }
+            ],
+            "theme": {
+                "genre": "Rap"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/La%20Grande%20Sophie%20-%20La%20Suite%20-%2005%20-%20La%20suite,%20le%20milieu,%20la%20fin.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Joyeux Urbains",
+                    "hint": "Chacun sa croute"
+                },
+                {
+                    "answer": "La Grande Sophie",
+                    "correct": true,
+                    "hint": "La suite, le milieu, la fin"
+                },
+                {
+                    "answer": "Stephane Eicher",
+                    "hint": "Dejeuner en paix"
+                },
+                {
+                    "answer": "Mickey 3D",
+                    "hint": "Matador"
+                },
+                {
+                    "answer": "- M -",
+                    "hint": "La belle \u00e9toile"
+                },
+                {
+                    "answer": "-M-",
+                    "hint": "Peau de fleur"
+                }
+            ],
+            "theme": {
+                "genre": "France"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/554_ArethaFranklin_Think_1968.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Stevie Wonder",
+                    "hint": "You are the sunshine of my life"
+                },
+                {
+                    "answer": "Marvin Gaye",
+                    "hint": "What's Happening Brother"
+                },
+                {
+                    "answer": "Marvin Gaye",
+                    "hint": "I Got To Get To California"
+                },
+                {
+                    "answer": "The Staple Singers",
+                    "hint": "The weight"
+                },
+                {
+                    "answer": "Aretha Franklin",
+                    "correct": true,
+                    "hint": "Think"
+                },
+                {
+                    "answer": "Otis Redding",
+                    "hint": "My Girl"
+                }
+            ],
+            "theme": {
+                "genre": "Soul"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/45011_KanyeWest_Iwonder_2007.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Gang Starr",
+                    "hint": "work"
+                },
+                {
+                    "answer": "Gym Class Heroes",
+                    "hint": "On My Own Time"
+                },
+                {
+                    "answer": "Fergie",
+                    "hint": "Fergalicious"
+                },
+                {
+                    "answer": "Supr&#234;me NTM",
+                    "hint": "La fi&#232;vre"
+                },
+                {
+                    "answer": "Orishas",
+                    "hint": "Emigrantes"
+                },
+                {
+                    "answer": "Kanye West",
+                    "correct": true,
+                    "hint": "I wonder"
+                }
+            ],
+            "theme": {
+                "genre": "Rap"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/67212_VanMorrison_OneIrishRover_1986.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "John Lennon",
+                    "hint": "Woman"
+                },
+                {
+                    "answer": "White Stripes",
+                    "hint": "In The Cold, Cold Night"
+                },
+                {
+                    "answer": "Elvis Presley",
+                    "hint": "Faded Love"
+                },
+                {
+                    "answer": "Muse",
+                    "hint": "Falling Down"
+                },
+                {
+                    "answer": "The Red Hot Chili Peppers",
+                    "hint": "Californication"
+                },
+                {
+                    "answer": "Van Morrison",
+                    "correct": true,
+                    "hint": "One Irish Rover"
+                }
+            ],
+            "theme": {
+                "genre": "Rock"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Clash%20-%20The%20Guns%20Of%20Brixton.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Franz Ferdinand",
+                    "hint": "Auf Achse"
+                },
+                {
+                    "answer": "Luke",
+                    "hint": "Soledad"
+                },
+                {
+                    "answer": "Linkin Park",
+                    "hint": "In the end"
+                },
+                {
+                    "answer": "Travis",
+                    "hint": "Sing"
+                },
+                {
+                    "answer": "Nirvana",
+                    "hint": "All Apologies"
+                },
+                {
+                    "answer": "The Clash",
+                    "correct": true,
+                    "hint": "The Guns Of Brixton"
+                }
+            ],
+            "theme": {
+                "genre": "Rock"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Doc%20Gyneco%20-%20n%C3%A9%20ici.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Doc Gyneco",
+                    "correct": true,
+                    "hint": "N\u00e9 ici"
+                },
+                {
+                    "answer": "Doc Gyneco",
+                    "hint": "Ma Salope \u00e0 moi"
+                },
+                {
+                    "answer": "Shaggy",
+                    "hint": "Boombastic"
+                },
+                {
+                    "answer": "Shaggy",
+                    "hint": "It Wasn't Me"
+                },
+                {
+                    "answer": "Louis Amstrong",
+                    "hint": "What a wonderful world"
+                },
+                {
+                    "answer": "Black Eyed Peas",
+                    "hint": "Pump It"
+                }
+            ],
+            "theme": {
+                "genre": "Rap - RnB"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Rem2-07-06.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Madness",
+                    "correct": true,
+                    "hint": "Our house"
+                },
+                {
+                    "answer": "Berurier Noir",
+                    "hint": "Salut a toi"
+                },
+                {
+                    "answer": "Dire Straits",
+                    "hint": "Your latest trick"
+                },
+                {
+                    "answer": "The Posies",
+                    "hint": "Dream all day"
+                },
+                {
+                    "answer": "Big Soul",
+                    "hint": "Hippy hippy shake"
+                },
+                {
+                    "answer": "Berurier Noir",
+                    "hint": "L'empereur tomato-ketchup"
+                }
+            ],
+            "theme": {
+                "genre": "Rock et Rock chevelu"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Tim03-05.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Johny &#38; co",
+                    "correct": true,
+                    "hint": "Noel Ensemble"
+                },
+                {
+                    "answer": "Dorothee",
+                    "hint": "Allo M. l'ordinateur"
+                },
                 {
                     "answer": "Corbier",
                     "hint": "Sans ma barbe"
@@ -541,21 +933,12 @@
                     "hint": "C'est ton destin"
                 },
                 {
+                    "answer": "Carlos",
+                    "hint": "Papayou"
+                },
+                {
                     "answer": "Afro Man",
                     "hint": "Cuz I got high"
-                },
-                {
-                    "answer": "Florent Pagny",
-                    "correct": true,
-                    "hint": "Si tu veux m'essayer"
-                },
-                {
-                    "answer": "Patrick Sebastien",
-                    "hint": "Le petit bonhomme en mousse"
-                },
-                {
-                    "answer": "Lionel Ritchie",
-                    "hint": "You are my destiny"
                 }
             ],
             "theme": {
@@ -564,698 +947,33 @@
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/seqFrance06.mp3"
+                "mp3": "http://cache.amnezic.com/44011_ArethaFranklin_SpiritintheDark_1970.mp3"
             },
             "choices": [
-                {
-                    "answer": "Tonton Bidon David",
-                    "correct": true,
-                    "hint": "Sur et certain"
-                },
-                {
-                    "answer": "Indochine",
-                    "hint": "J'ai demande \u00e0 la lune"
-                },
-                {
-                    "answer": "Gamine",
-                    "hint": "Voila les anges"
-                },
-                {
-                    "answer": "Camille",
-                    "hint": "Vous"
-                },
-                {
-                    "answer": "Zebda",
-                    "hint": "Oualalaradime"
-                },
-                {
-                    "answer": "Blankass",
-                    "hint": "Qui que tu sois"
-                }
-            ],
-            "theme": {
-                "genre": "France"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim09-08.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Ghost in the shell",
-                    "hint": "Kenji Kawai"
-                },
-                {
-                    "answer": "Pulp Fiction",
-                    "correct": true,
-                    "hint": "Tim09-08"
-                },
-                {
-                    "answer": "Delivrance",
-                    "hint": "Deliverance (Dueling Banjos)"
-                },
-                {
-                    "answer": "Soggy Bottom Boys",
-                    "hint": "O Brother, Where Art Thou"
-                },
-                {
-                    "answer": "The Thomas Crown Affair",
-                    "hint": "Les Moulins De Mon Coeur"
-                },
-                {
-                    "answer": "Le Bon, la Brute et le Truand",
-                    "hint": "E. Morricone"
-                }
-            ],
-            "theme": {
-                "genre": "Musique de Film"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim11-12.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Au p'tit bonheur",
-                    "hint": "J' veux du soleil"
-                },
-                {
-                    "answer": "StillSkin",
-                    "hint": "Inside"
-                },
-                {
-                    "answer": "Red Hot Chili Peppers",
-                    "correct": true,
-                    "hint": "Blood sugar sex magic"
-                },
-                {
-                    "answer": "Axel Bauer",
-                    "hint": "Cargo"
-                },
-                {
-                    "answer": "Red Hot Chili Peppers",
-                    "hint": "Californication"
-                },
-                {
-                    "answer": "Big Soul",
-                    "hint": "Hippy hippy shake"
-                }
-            ],
-            "theme": {
-                "genre": "Rock et Rock chevelu"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/50890_Pixies_Ana_1990.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Leonard Cohen",
-                    "hint": "Waiting for the miracle"
-                },
-                {
-                    "answer": "Madonna",
-                    "hint": "Secret"
-                },
-                {
-                    "answer": "Olive",
-                    "hint": "You're not alone"
-                },
-                {
-                    "answer": "Lamb",
-                    "hint": "B Line"
-                },
-                {
-                    "answer": "Stevie Wonder",
-                    "hint": "You are the sunshine of my life"
-                },
-                {
-                    "answer": "Pixies",
-                    "correct": true,
-                    "hint": "Ana"
-                }
-            ],
-            "theme": {
-                "genre": "Les ann\u00e9es 1990"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Rem2-14-15.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Aspirateur",
-                    "hint": "Rem2-14-01"
-                },
-                {
-                    "answer": "Servir de la limonade",
-                    "hint": "Rem2-14-13"
-                },
-                {
-                    "answer": "Cadran de telephone",
-                    "hint": "Rem2-14-05"
-                },
-                {
-                    "answer": "Seche-cheveux",
-                    "hint": "Rem2-14-20"
-                },
-                {
-                    "answer": "Bricquet",
-                    "hint": "Rem2-14-12"
-                },
-                {
-                    "answer": "Ouvrir un pinard",
-                    "correct": true,
-                    "hint": "Rem2-14-15"
-                }
-            ],
-            "theme": {
-                "genre": "Bruitages"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/sommerville03.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Manu Chao",
-                    "hint": "Bongo Bong"
-                },
-                {
-                    "answer": "Jimmy Sommerville",
-                    "correct": true,
-                    "hint": "Smalltown Boy"
-                },
-                {
-                    "answer": "Zebda/Jacques Chirac",
-                    "hint": "Le bruit et l'odeur"
-                },
-                {
-                    "answer": "Ozone",
-                    "hint": "Dragostea Din Tei"
-                },
-                {
-                    "answer": "Raul Paz",
-                    "hint": "Pelicula"
-                },
-                {
-                    "answer": "Yannick",
-                    "hint": "Ces soirees la"
-                }
-            ],
-            "theme": {
-                "genre": "Pot Pourri"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim04-12.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Pink Floyd",
-                    "hint": "Money"
-                },
-                {
-                    "answer": "Eric Clapton",
-                    "correct": true,
-                    "hint": "Sunshine of your love"
-                },
-                {
-                    "answer": "The Beach Boys",
-                    "hint": "God Only Knows"
-                },
-                {
-                    "answer": "The doors",
-                    "hint": "Break on though"
-                },
-                {
-                    "answer": "Elvis Presley",
-                    "hint": "Don't be cruel"
-                },
-                {
-                    "answer": "Doobie brothers",
-                    "hint": "Long Train runnin'"
-                }
-            ],
-            "theme": {
-                "genre": "Ann\u00e9es 60/70"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim05-13.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Louise attaque",
-                    "hint": "Ton invitation"
-                },
-                {
-                    "answer": "Francis Cabrel",
-                    "correct": true,
-                    "hint": "Octobre"
-                },
-                {
-                    "answer": "Leopold",
-                    "hint": "Nord et vous c'est l'amour"
-                },
-                {
-                    "answer": "J.L. Lahaye",
-                    "hint": "Papa chanteur"
-                },
-                {
-                    "answer": "Vanessa Paradis",
-                    "hint": "Joe le taxi"
-                },
-                {
-                    "answer": "Calogero",
-                    "hint": "Si seulement je pouvais lui ma"
-                }
-            ],
-            "theme": {
-                "genre": "France"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim01-12.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Baywatch",
-                    "correct": true,
-                    "hint": "Tim01-12"
-                },
-                {
-                    "answer": "Supercopter",
-                    "hint": "Theme02"
-                },
-                {
-                    "answer": "Urgences",
-                    "hint": "Theme16"
-                },
-                {
-                    "answer": "Saturday Night Fever",
-                    "hint": "Theme11"
-                },
-                {
-                    "answer": "Urgences",
-                    "hint": "Tim2-SerieTV-03"
-                },
-                {
-                    "answer": "S\u00e9quence Myst\u00e8re",
-                    "hint": "Theme15"
-                }
-            ],
-            "theme": {
-                "genre": "T\u00e9l\u00e9"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/seqFrance07.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Billy Ze Kick",
-                    "hint": "OCB"
-                },
-                {
-                    "answer": "-M-",
-                    "hint": "Matchistador"
-                },
-                {
-                    "answer": "Zazie",
-                    "hint": "Zen"
-                },
-                {
-                    "answer": "Manset",
-                    "correct": true,
-                    "hint": "Il voyage en solitaire"
-                },
-                {
-                    "answer": "Tryo",
-                    "hint": "C'est du roots"
-                },
-                {
-                    "answer": "Etienne Daho",
-                    "hint": "Tomber pour la France"
-                }
-            ],
-            "theme": {
-                "genre": "France"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim2-VarieteEtrangere-08.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Midnight Oil",
-                    "hint": "My country"
-                },
-                {
-                    "answer": "Simply red",
-                    "correct": true,
-                    "hint": "if you don't know me by now"
-                },
-                {
-                    "answer": "Keziah Jones",
-                    "hint": "Rythm is love"
-                },
-                {
-                    "answer": "Moby",
-                    "hint": "Porcelain"
-                },
-                {
-                    "answer": "Led Zepplin",
-                    "hint": "Stairway to Heaven"
-                },
-                {
-                    "answer": "Kylie Minogue",
-                    "hint": "In your eyes"
-                }
-            ],
-            "theme": {
-                "genre": "International"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/06-avril_lavigne-my_happy_ending-mvp.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "The Red Hot Chili Peppers",
-                    "hint": "Around the world"
-                },
-                {
-                    "answer": "Elvis Presley",
-                    "hint": "I Washed My Hands In Muddy Water"
-                },
-                {
-                    "answer": "The Servant",
-                    "hint": "BeautifulThing"
-                },
-                {
-                    "answer": "The Verve",
-                    "hint": "Bitter sweet symphony"
-                },
-                {
-                    "answer": "Nirvana",
-                    "hint": "All Apologies"
-                },
-                {
-                    "answer": "avril lavigne",
-                    "correct": true,
-                    "hint": "my happy ending"
-                }
-            ],
-            "theme": {
-                "genre": "Rock"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Matmatah%20-%20L'Apologie.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Mylene Farmer",
-                    "hint": "C'est une belle journ\u00e9e"
-                },
-                {
-                    "answer": "Gold",
-                    "hint": "Plus pres des etoiles"
-                },
-                {
-                    "answer": "Etienne Daho",
-                    "hint": "Me manquer"
-                },
-                {
-                    "answer": "Vanessa Paradis",
-                    "hint": "Joe le taxi"
-                },
-                {
-                    "answer": "Matmatah",
-                    "correct": true,
-                    "hint": "L'Apologie"
-                },
-                {
-                    "answer": "Thierry Hazard",
-                    "hint": "Le jerk"
-                }
-            ],
-            "theme": {
-                "genre": "France"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/05_TEARS_AND_RAIN.MP3"
-            },
-            "choices": [
-                {
-                    "answer": "James Blunt",
-                    "hint": "Wisemen"
-                },
-                {
-                    "answer": "Beach Boys",
-                    "hint": "Kokomo"
-                },
-                {
-                    "answer": "James Blunt",
-                    "correct": true,
-                    "hint": "Tears And Rain"
-                },
-                {
-                    "answer": "Red Hot Chili Peppers",
-                    "hint": "Give it away"
-                },
-                {
-                    "answer": "Moby",
-                    "hint": "Porcelain"
-                },
-                {
-                    "answer": "Beach Boys",
-                    "hint": "Surfin' USA"
-                }
-            ],
-            "theme": {
-                "genre": "International"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim12-07.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Zazie",
-                    "correct": true,
-                    "hint": "Un point c'est tout"
-                },
-                {
-                    "answer": "Eagles",
-                    "hint": "Hotel California"
-                },
-                {
-                    "answer": "Zucchero",
-                    "hint": "Diavolo in me"
-                },
-                {
-                    "answer": "Matmatah",
-                    "hint": "L'apologie"
-                },
-                {
-                    "answer": "Cat Stevens",
-                    "hint": "Wild world"
-                },
-                {
-                    "answer": "Amadou &#38; Mariam",
-                    "hint": "Beau dimanche"
-                }
-            ],
-            "theme": {
-                "genre": "Pot Pourri"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/05%20Beautiful%20You.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Gorillaz",
-                    "hint": "Feel Good Inc."
-                },
-                {
-                    "answer": "Snap!",
-                    "hint": "Exterminate (Endzeit 7'')"
-                },
-                {
-                    "answer": "Crystal Method",
-                    "hint": "Born Too Slow"
-                },
-                {
-                    "answer": "Portishead",
-                    "hint": "Strangers"
-                },
-                {
-                    "answer": "Gorillaz",
-                    "hint": "Dare"
-                },
-                {
-                    "answer": "Bumcello",
-                    "correct": true,
-                    "hint": "Beautiful You"
-                }
-            ],
-            "theme": {
-                "genre": "Electro"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/8738_Rihanna_SOS_2006.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Mary J. Blige",
-                    "hint": "Your Child"
-                },
-                {
-                    "answer": "Patti Labelle",
-                    "hint": "Ain't No Way f. Mary J. Blige"
-                },
-                {
-                    "answer": "Patti Labelle",
-                    "hint": "Love Don't Live Here Anymore"
-                },
                 {
                     "answer": "Aretha Franklin",
-                    "hint": "Baby, Baby, Baby"
-                },
-                {
-                    "answer": "Rihanna",
-                    "hint": "Let me"
-                },
-                {
-                    "answer": "Rihanna",
                     "correct": true,
-                    "hint": "SOS"
-                }
-            ],
-            "theme": {
-                "genre": "R'nB'"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Tim2-Dance-05.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Davinia",
-                    "hint": "Sempre di piu"
+                    "hint": "Spirit in the Dark"
                 },
                 {
-                    "answer": "Daft Punk",
-                    "hint": "Aerodynamic"
+                    "answer": "Thelma Houston ### Pressure Cooker",
+                    "hint": "To Know You Is To Love You"
                 },
                 {
-                    "answer": "Technotronic",
-                    "hint": "Pump up the jam"
+                    "answer": "The Deer Hunter",
+                    "hint": "Cavatina"
                 },
                 {
-                    "answer": "Talk Talk",
-                    "hint": "Such a shame"
+                    "answer": "James Brown",
+                    "hint": "The payback"
                 },
                 {
-                    "answer": "Corona",
-                    "correct": true,
-                    "hint": "The rythm of the night"
+                    "answer": "Donna Summer",
+                    "hint": "Hot stuff"
                 },
                 {
-                    "answer": "Fat Boy Slim",
-                    "hint": "Praise You"
-                }
-            ],
-            "theme": {
-                "genre": "Disco - Techno"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/09%20Beau%20dimanche.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Bruce Springsteen",
-                    "hint": "Streets of Philadelphia"
-                },
-                {
-                    "answer": "Matmatah",
-                    "hint": "L'apologie"
-                },
-                {
-                    "answer": "Manu Chao",
-                    "hint": "Bongo Bong"
-                },
-                {
-                    "answer": "Paolo Conte",
-                    "hint": "Vaia con me"
-                },
-                {
-                    "answer": "Cat Stevens",
-                    "hint": "Wild world"
-                },
-                {
-                    "answer": "Amadou &#38; Mariam",
-                    "correct": true,
-                    "hint": "Beau dimanche"
-                }
-            ],
-            "theme": {
-                "genre": "Pot Pourri"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/72322_Chic_IWantYourLove_1978.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Chic",
-                    "hint": "Le freak"
-                },
-                {
-                    "answer": "Chic",
-                    "correct": true,
-                    "hint": "I Want Your Love"
-                },
-                {
-                    "answer": "Marvin Gaye",
-                    "hint": "What's Happening Brother"
-                },
-                {
-                    "answer": "Serge Gainsbourg",
-                    "hint": "Relax Baby Be Cool"
-                },
-                {
-                    "answer": "Elvis Presley",
-                    "hint": "Faded Love"
-                },
-                {
-                    "answer": "Fania All Stars",
-                    "hint": "Cheo Feliciano - El Raton"
+                    "answer": "Boney M",
+                    "hint": "No Woman No Cry"
                 }
             ],
             "theme": {
@@ -1264,138 +982,33 @@
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/Tim01-07.mp3"
+                "mp3": "http://cache.amnezic.com/Tim12-06.mp3"
             },
             "choices": [
                 {
-                    "answer": "Urgences",
-                    "hint": "Tim2-SerieTV-03"
+                    "answer": "Peter Gabriel",
+                    "hint": "Sledgehammer"
                 },
                 {
-                    "answer": "L'homme qui tombe \u00e0 pic",
-                    "hint": ""
-                },
-                {
-                    "answer": "Harley",
-                    "correct": true,
-                    "hint": "Tim01-07"
-                },
-                {
-                    "answer": "Les t\u00eates br\u00fbl\u00e9es",
-                    "hint": ""
-                },
-                {
-                    "answer": "L'agence Tout Risques",
-                    "hint": "Theme01"
-                },
-                {
-                    "answer": "Ricky ou la belle vie",
-                    "hint": "Tim01-06"
-                }
-            ],
-            "theme": {
-                "genre": "T\u00e9l\u00e9"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/Rock%20Collection.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Laurent Voulzy",
-                    "correct": true,
-                    "hint": "Rockcollection"
-                },
-                {
-                    "answer": "Goldman",
-                    "hint": "n\u00e9 en 17 \u00e0 Leidenstadt"
-                },
-                {
-                    "answer": "Les Innocents",
-                    "hint": "Mon dernier soldat"
-                },
-                {
-                    "answer": "Gold",
-                    "hint": "Calicoba"
-                },
-                {
-                    "answer": "Lorie",
-                    "hint": "sur un air latino"
-                },
-                {
-                    "answer": "L'affaire Louis Trio",
-                    "hint": "Mobilis in mobile"
-                }
-            ],
-            "theme": {
-                "genre": "France"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/61334_PattiLabelle_Silly_2005.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Patti Labelle",
-                    "correct": true,
-                    "hint": "Silly"
-                },
-                {
-                    "answer": "Rihanna",
-                    "hint": "Disturbia"
-                },
-                {
-                    "answer": "Aretha Franklin",
-                    "hint": "Spirit in the Dark"
-                },
-                {
-                    "answer": "Beyonc&#233;",
-                    "hint": "Crazy in love"
-                },
-                {
-                    "answer": "Thelma Houston ### Pressure Cooker",
-                    "hint": "To Know You Is To Love You"
-                },
-                {
-                    "answer": "John Legend",
-                    "hint": "Green Light (Feat. Andre 3000)"
-                }
-            ],
-            "theme": {
-                "genre": "R'nB'"
-            }
-        },
-        {
-            "audio": {
-                "mp3": "http://cache.amnezic.com/01%20El%20Beso.mp3"
-            },
-            "choices": [
-                {
-                    "answer": "Raul Paz",
-                    "correct": true,
-                    "hint": "El Beso"
-                },
-                {
-                    "answer": "Andre Verschuren",
-                    "hint": "Y a dla rumba dans l'air"
-                },
-                {
-                    "answer": "Amadou &#38; Mariam",
-                    "hint": "Beau dimanche"
+                    "answer": "Manu Chao",
+                    "hint": "Bongo Bong"
                 },
                 {
                     "answer": "Sinead O'Connor",
                     "hint": "Nothing compares to you"
                 },
                 {
-                    "answer": "Seu Jorge",
-                    "hint": "Seu Jorge"
+                    "answer": "Sinclair",
+                    "correct": true,
+                    "hint": "Si c'est bon comme \u00e7a"
                 },
                 {
-                    "answer": "Gipsy Kings",
-                    "hint": "Volare"
+                    "answer": "Paolo Conte",
+                    "hint": "Vaia con me"
+                },
+                {
+                    "answer": "Yes",
+                    "hint": "Owner of a lonely heart"
                 }
             ],
             "theme": {
@@ -1404,72 +1017,457 @@
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/59688_TheProdigy_SerialThrilla_1997.mp3"
+                "mp3": "http://cache.amnezic.com/Tim2-ComediesMusicales-02.mp3"
             },
             "choices": [
                 {
-                    "answer": "Hooverphonic",
-                    "hint": "Eden ?"
-                },
-                {
-                    "answer": "DJ Shadow",
-                    "hint": "Stem Long Stem Transmission 2"
-                },
-                {
-                    "answer": "Crystal Method",
-                    "hint": "Born Too Slow"
-                },
-                {
-                    "answer": "The Prodigy",
+                    "answer": "Cindy",
                     "correct": true,
-                    "hint": "Serial Thrilla"
+                    "hint": "Cindy"
+                },
+                {
+                    "answer": "Notre Dame de Paris",
+                    "hint": "Belle"
+                },
+                {
+                    "answer": "Britney Spears",
+                    "hint": "Baby one more time"
+                },
+                {
+                    "answer": "Paradisio",
+                    "hint": "Bailando"
+                },
+                {
+                    "answer": "Nomads",
+                    "hint": "Yakalelo"
+                },
+                {
+                    "answer": "Romeo &#38; Juliette",
+                    "hint": "Les rois des mondes"
+                }
+            ],
+            "theme": {
+                "genre": "Compil'"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/seqFrance05.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Cabrel",
+                    "correct": true,
+                    "hint": "Rosie"
+                },
+                {
+                    "answer": "Julie Pietry",
+                    "hint": "Eve, leve toi"
+                },
+                {
+                    "answer": "Jean Jacques Lafont",
+                    "hint": "Le geant de papier"
+                },
+                {
+                    "answer": "Gold",
+                    "hint": "Capitaine abandonne"
+                },
+                {
+                    "answer": "Aldebert",
+                    "hint": "Un mariage t'reggae"
+                },
+                {
+                    "answer": "-M-",
+                    "hint": "Ma m\u00e9lodie"
+                }
+            ],
+            "theme": {
+                "genre": "France"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Rem2-14-14.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Un mixer",
+                    "correct": true,
+                    "hint": "Rem2-14-14"
+                },
+                {
+                    "answer": "Clavier",
+                    "hint": "Rem2-14-06"
+                },
+                {
+                    "answer": "Cadran de telephone",
+                    "hint": "Rem2-14-05"
+                },
+                {
+                    "answer": "Velcro",
+                    "hint": "Rem2-14-21"
+                },
+                {
+                    "answer": "Douche",
+                    "hint": "Rem2-14-08"
+                },
+                {
+                    "answer": "Tourner la page",
+                    "hint": "Rem2-14-22"
+                }
+            ],
+            "theme": {
+                "genre": "Bruitages"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/55229_JoniMitchell_Woodstock_1970.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Joni Mitchell",
+                    "correct": true,
+                    "hint": "Woodstock"
+                },
+                {
+                    "answer": "Dire Straits",
+                    "hint": "Goodbye windflower"
+                },
+                {
+                    "answer": "Nirvana",
+                    "hint": "Come as You Are"
+                },
+                {
+                    "answer": "Dandy Warhols",
+                    "hint": "I Am Over It"
+                },
+                {
+                    "answer": "Radiohead",
+                    "hint": "Kid A"
+                },
+                {
+                    "answer": "John Lennon",
+                    "hint": "Woman"
+                }
+            ],
+            "theme": {
+                "genre": "Rock"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/3685_GoldenGateQuart_Elijah_1955.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Swing low, sweet chariot"
+                },
+                {
+                    "answer": "Golden Gate Quartet",
+                    "correct": true,
+                    "hint": "Elijah"
+                },
+                {
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Didn't it rain"
+                },
+                {
+                    "answer": "John Lee Hooker",
+                    "hint": "I'm In The Mood"
+                },
+                {
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Down by the riverside"
+                },
+                {
+                    "answer": "Golden Gate Quartet",
+                    "hint": "Didn't it rain"
+                }
+            ],
+            "theme": {
+                "genre": "Les ann\u00e9es 1950"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/3722_GotanProject_Chungasrevenge_2001.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Cheb Khaled ### Rachid Taha",
+                    "hint": "Abdel Kader"
+                },
+                {
+                    "answer": "Gwen Stefani",
+                    "hint": "Bubble pop electrinic feat Johnny Vulture"
+                },
+                {
+                    "answer": "Gotan Project",
+                    "correct": true,
+                    "hint": "Chunga's revenge"
+                },
+                {
+                    "answer": "Jamiroquai",
+                    "hint": "Stop Don't Panic"
+                },
+                {
+                    "answer": "Jason Mraz",
+                    "hint": "Make It Mine"
+                },
+                {
+                    "answer": "Dizzee Rascal",
+                    "hint": "Jezebel"
+                }
+            ],
+            "theme": {
+                "genre": "Les ann\u00e9es 2000"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/4596_Kassav_Yelele_1999.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Assassin",
+                    "hint": "Shoota babylone"
+                },
+                {
+                    "answer": "Ani Difranco",
+                    "hint": "Wishibn' and hopin'"
                 },
                 {
                     "answer": "Air",
                     "hint": "All I Need"
                 },
                 {
-                    "answer": "Portishead",
-                    "hint": "Biscuit"
+                    "answer": "Kassav'",
+                    "correct": true,
+                    "hint": "Yelele"
+                },
+                {
+                    "answer": "Amr Diab ### Cheb Khaled",
+                    "hint": "Qalbi"
+                },
+                {
+                    "answer": "De La Soul",
+                    "hint": "Big Brother Beat"
                 }
             ],
             "theme": {
-                "genre": "Electro"
+                "genre": "Les ann\u00e9es 1990"
             }
         },
         {
             "audio": {
-                "mp3": "http://cache.amnezic.com/5217_TheMamasandTheP_CaliforniaDreamin_1966.mp3"
+                "mp3": "http://cache.amnezic.com/72299_BuckOwens_ActNaturally_1963.mp3"
             },
             "choices": [
                 {
-                    "answer": "Joy Division",
-                    "hint": "Love Will Tear Us Apart"
-                },
-                {
-                    "answer": "The Clash",
-                    "hint": "The Guns Of Brixton"
-                },
-                {
-                    "answer": "Animals",
-                    "hint": "House of the Rising Sun"
-                },
-                {
-                    "answer": "U2",
-                    "hint": "Beautiful Day"
-                },
-                {
-                    "answer": "The Red Hot Chili Peppers",
-                    "hint": "Throw away your television"
-                },
-                {
-                    "answer": "The Mamas and The Papas",
+                    "answer": "Buck Owens",
                     "correct": true,
-                    "hint": "California Dreamin'"
+                    "hint": "Act Naturally"
+                },
+                {
+                    "answer": "Elvis Presley",
+                    "hint": "Make the World Go Away"
+                },
+                {
+                    "answer": "Ry Cooder",
+                    "hint": "Stand By Me"
+                },
+                {
+                    "answer": "Marilyn Monroe",
+                    "hint": "When Love Goes Wrong Nothing Goes Right"
+                },
+                {
+                    "answer": "Ry Cooder",
+                    "hint": "Stand By Me"
+                },
+                {
+                    "answer": "Ry Cooder",
+                    "hint": "Stand By Me"
+                }
+            ],
+            "theme": {
+                "genre": "Vari\u00e9t\u00e9"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Tim2-Daube-13.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Felicien",
+                    "hint": "Cum cum mania"
+                },
+                {
+                    "answer": "Les Inconnus",
+                    "hint": "Isabelle (a les yeux bleus)(Longue)"
+                },
+                {
+                    "answer": "Lagaf",
+                    "hint": "Bo Le lavabo"
+                },
+                {
+                    "answer": "Boris",
+                    "hint": "Soiree Disco"
+                },
+                {
+                    "answer": "Killie Minogue",
+                    "correct": true,
+                    "hint": "Outta my head"
+                },
+                {
+                    "answer": "Francis Lalane",
+                    "hint": "On se retrouvera"
+                }
+            ],
+            "theme": {
+                "genre": "No comment"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/80s16.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "UB40",
+                    "hint": "Red red wine"
+                },
+                {
+                    "answer": "Depeche Mode",
+                    "hint": "Enjoy the silence"
+                },
+                {
+                    "answer": "Blondie",
+                    "hint": "Call me"
+                },
+                {
+                    "answer": "Bonnie Taylor",
+                    "hint": "Total eclipse of the heart"
+                },
+                {
+                    "answer": "Europe",
+                    "correct": true,
+                    "hint": "The final countdown"
+                },
+                {
+                    "answer": "Indochine",
+                    "hint": "Canary bay"
+                }
+            ],
+            "theme": {
+                "genre": "Ann\u00e9es 80"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Tim09-05.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Soggy Bottom Boys",
+                    "hint": "O Brother, Where Art Thou"
+                },
+                {
+                    "answer": "Raiders Of The Lost Ark",
+                    "hint": "The Map Room Dawn"
+                },
+                {
+                    "answer": "Twilight",
+                    "hint": "Flightless Bird, American Mouth"
+                },
+                {
+                    "answer": "Le mepris",
+                    "correct": true,
+                    "hint": "Tim09-05"
+                },
+                {
+                    "answer": "Fight Club",
+                    "hint": "Where Is My Mind?"
+                },
+                {
+                    "answer": "The Big Lebowski",
+                    "hint": "Techno Pop"
+                }
+            ],
+            "theme": {
+                "genre": "Musique de Film"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/No%20surprises.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Radiohead",
+                    "correct": true,
+                    "hint": "No surprises"
+                },
+                {
+                    "answer": "Bloc Party",
+                    "hint": "Helicopter"
+                },
+                {
+                    "answer": "The White Stripes",
+                    "hint": "In the Cold, Cold Night"
+                },
+                {
+                    "answer": "The Connells",
+                    "hint": "74-75"
+                },
+                {
+                    "answer": "Hoobastank",
+                    "hint": "The reason"
+                },
+                {
+                    "answer": "The White Stripes",
+                    "hint": "In The Cold Cold Night"
                 }
             ],
             "theme": {
                 "genre": "Rock"
+            }
+        },
+        {
+            "audio": {
+                "mp3": "http://cache.amnezic.com/Hotel%20California.mp3"
+            },
+            "choices": [
+                {
+                    "answer": "Elvis Presley",
+                    "hint": "Don't be cruel"
+                },
+                {
+                    "answer": "The Beach Boys",
+                    "hint": "God Only Knows"
+                },
+                {
+                    "answer": "Eagles",
+                    "correct": true,
+                    "hint": "Hotel California"
+                },
+                {
+                    "answer": "Rolling stones",
+                    "hint": "Brow sugar"
+                },
+                {
+                    "answer": "David Bowie",
+                    "hint": "Rebel rebel"
+                },
+                {
+                    "answer": "The beatles",
+                    "hint": "Lucy in the sky with diamonds"
+                }
+            ],
+            "theme": {
+                "genre": "Ann\u00e9es 60/70"
             }
         }
     ]

@@ -13,6 +13,7 @@ default_nb_question = 42
 default_nb_choice = 6
 default_with_hint = True
 
+
 # ##################################################
 # game
 
@@ -42,8 +43,6 @@ def create(json_tracks=None, json_file=None, json_url=None, nb_question=None, nb
 
     # prepare game
     game = util.create()
-    game.nb_question = nb_question
-    game.nb_choice = nb_choice
     game.questions = []
     for track_id in track_ids:
         track = ordered_tracks[track_id]

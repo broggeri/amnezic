@@ -22,12 +22,10 @@
                     <tr>
                         <th>answer</th>
                         <th>hint</th>
-                        <th>correct</th>
                     </tr>
                     <tr ng-repeat="choice in question.choices" ng-class="{'success': choice.correct}">
                         <td>{{choice.answer}}</td>
                         <td>{{choice.hint}}</td>
-                        <td>{{choice.correct}}</td>
                     </tr>
                 </table>
 

@@ -1,0 +1,16 @@
+{
+    "players": [
+        {
+            "name": "Marion",
+            "symbol": "M"
+        },
+        {
+            "name": "Bruno",
+            "symbol": "B"
+        },
+        {
+            "name": "Gregory",
+            "symbol": "G"
+        }
+    ]
+}

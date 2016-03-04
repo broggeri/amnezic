@@ -27,67 +27,41 @@ angular.module('amnezic',['model','ngRoute'])
         });
 }])
 
-.controller('controller', ['$scope', '$routeParams', 'create', function ($scope, $routeParams, create) {
+.controller('controller', ['$scope', '$routeParams', '$http', 'create', function ($scope, $routeParams, $http, create) {
 
-    // create dummy data
+    if ( !$scope.game ) {
 
-    $scope.game = create.game()
-        .add_player(
-            create.player('Marion','M')
-                .set_score(
-                    create.score(30)
-                )
-        )
-        .add_player(
-            create.player('Bruno','B')
-                .set_score(
-                    create.score(20)
-                )
-        )
-        .add_player(
-            create.player('Gregory','G')
-                .set_score(
-                    create.score(10)
-                )
-        )
+        console.log( 'init game' );
 
-        .add_question(
-            create.question()
-                .set_theme(
-                    create.theme('rock')
-                )
-                .set_audio(
-                    create.audio('rock.mp3')
-                )
-                .add_choice(
-                    create.choice('artiste 1', 'chanson 1')
-                )
-                .add_choice(
-                    create.choice('artiste 2', 'chanson 2', true)
-                )
-                .add_choice(
-                    create.choice('artiste 3', 'chanson 3')
-                )
-        )
-        .add_question(
-            create.question()
-                .add_choice(
-                    create.choice('artiste 4', 'chanson 4', true)
-                )
-                .add_choice(
-                    create.choice('artiste 5', 'chanson 5', true)
-                )
-        )
-        .add_question(
-            create.question()
-                .set_theme(
-                    create.theme()
-                )
-                .set_audio(
-                    create.audio()
-                )
-        )
-        ;
+        // create dummy players
+
+        $scope.game = create.game()
+                .add_player( create.player('Marion','M') .set_score( create.score(30) ) )
+                .add_player( create.player('Bruno','B').set_score( create.score(20) ) )
+                .add_player( create.player('Gregory','G').set_score( create.score(10) ) );
+
+        // load questions from file
+
+        $http.get( 'mock/game.json' ).then( function( response ) {
+            console.log( 'load questions from file' );
+            var json = response.data;
+            for ( var i in json['questions'] ) {
+                var json_question = json['questions'][i];
+                // console.log(json_question);
+                var question = create.question()
+                    .set_audio( create.audio( json_question['audio']['mp3'] ) )
+                    .set_theme( create.theme( json_question['theme']['genre'] ) );
+                for ( var j in json_question['choices'] ) {
+                    var json_choice = json_question['choices'][j];
+                    // console.log(json_choice);
+                    question.add_choice( create.choice( json_choice['answer'], json_choice['hint'], json_choice['correct'] ) );
+                }
+                $scope.game.add_question(question);
+            }
+            console.log( $scope.game );
+            return response.data;
+        });
+    }
 
     // quick selection of current question
 

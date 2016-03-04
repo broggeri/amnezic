@@ -1,9 +1,9 @@
-angular.module('model',[])
+angular.module('model',['ngResource'])
 
 // //////////////////////////////////////////////////
 // Game
 
-.factory('create', [ 'Game', 'Player', 'Score', 'Question', 'Theme', 'Audio', 'Choice', function (Game, Player, Score, Question, Theme, Audio, Choice) {
+.factory('create', ['Game', 'Player', 'Score', 'Question', 'Theme', 'Audio', 'Choice', function (Game, Player, Score, Question, Theme, Audio, Choice) {
 
     // //////////////////////////////////////////////////
     // constructor

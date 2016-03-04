@@ -1,31 +1,38 @@
-<div class="panel panel-default">
-    <div class="panel-heading">question</div>
-    <div class="panel-body">
+<div ng-include src="'tpl/header.html'"></div>
+<div class="row">
+    <div class="col-xs-12 col-md-12">
 
-        <div class="panel panel-default" ng-if="question.theme">
+        <div class="panel panel-default">
+            <div class="panel-heading">question</div>
             <div class="panel-body">
-                theme: {{question.theme.title}}
+
+                <div class="panel panel-default" ng-if="question.theme">
+                    <div class="panel-body">
+                        theme: {{question.theme.title}}
+                    </div>
+                </div>
+
+                <div class="panel panel-default" ng-if="question.audio">
+                    <div class="panel-body">
+                        audio: {{question.audio.mp3}}
+                    </div>
+                </div>
+
+                <table class="table table-striped table-bordered" ng-if="question.choices.length">
+                    <tr>
+                        <th>answer</th>
+                        <th>hint</th>
+                        <th>correct</th>
+                    </tr>
+                    <tr ng-repeat="choice in question.choices" ng-class="{'success': choice.correct}">
+                        <td>{{choice.answer}}</td>
+                        <td>{{choice.hint}}</td>
+                        <td>{{choice.correct}}</td>
+                    </tr>
+                </table>
+
             </div>
         </div>
-
-        <div class="panel panel-default" ng-if="question.audio">
-            <div class="panel-body">
-                audio: {{question.audio.mp3}}
-            </div>
-        </div>
-
-        <table class="table table-striped table-bordered" ng-if="question.choices.length">
-            <tr>
-                <th>answer</th>
-                <th>hint</th>
-                <th>correct</th>
-            </tr>
-            <tr ng-repeat="choice in question.choices" ng-class="{'success': choice.correct}">
-                <td>{{choice.answer}}</td>
-                <td>{{choice.hint}}</td>
-                <td>{{choice.correct}}</td>
-            </tr>
-        </table>
 
     </div>
 </div>

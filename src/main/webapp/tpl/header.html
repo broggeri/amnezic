@@ -1,0 +1,11 @@
+<br/>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <a class="btn btn-default navbar-btn" href="#start">start</a>
+        <a class="btn btn-default navbar-btn" href="#players">players</a>
+        <a class="btn btn-default navbar-btn" href="#question/{{question_id-1}}" ng-disabled="question_id <= 1">&lt;</a>
+        <a class="btn btn-default navbar-btn" href="#question/{{question_id+1}}" ng-disabled="question_id >= game.questions.length">&gt;</a>
+        <a class="btn btn-default navbar-btn" href="#score">score</a>
+        <a class="btn btn-default navbar-btn" href="#end">end</a>
+    </div>
+</nav>

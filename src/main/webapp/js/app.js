@@ -28,6 +28,9 @@ angular.module('amnezic',['model','ngRoute'])
 }])
 
 .controller('controller', ['$scope', '$routeParams', 'create', function ($scope, $routeParams, create) {
+
+    // create dummy data
+
     $scope.game = create.game()
         .add_player(
             create.player('Marion','M')
@@ -86,12 +89,12 @@ angular.module('amnezic',['model','ngRoute'])
         )
         ;
 
-    if ($scope.game && $routeParams.question_id) {
-        console.log($routeParams.question_id);
+    // quick selection of current question
+
+    $scope.question_id = $routeParams.question_id ? parseInt( $routeParams.question_id ) : 0;
+    $scope.question = null;
+    if ($scope.question_id && (0 < $scope.question_id) && ($scope.question_id <= $scope.game.questions.length)) {
         $scope.question = $scope.game.questions[$routeParams.question_id-1];
-    }
-    else {
-        $scope.question = null;
     }
 
 }]);

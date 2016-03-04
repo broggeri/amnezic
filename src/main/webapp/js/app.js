@@ -1,6 +1,33 @@
-angular.module('amnezic',['model'])
+angular.module('amnezic',['model','ngRoute'])
 
-.controller('controller', ['$scope', 'create', function ($scope, create) {
+.config(['$routeProvider', function($routeProvider) {
+    $routeProvider
+        .when('/start', {
+            templateUrl: 'tpl/start.html',
+            controller: 'controller'
+        })
+        .when('/players', {
+            templateUrl: 'tpl/players.html',
+            controller: 'controller'
+        })
+        .when('/question/:question_id', {
+            templateUrl: 'tpl/question.html',
+            controller: 'controller'
+        })
+        .when('/score', {
+            templateUrl: 'tpl/score.html',
+            controller: 'controller'
+        })
+        .when('/end', {
+            templateUrl: 'tpl/end.html',
+            controller: 'controller'
+        })
+        .otherwise({
+            redirectTo: '/start'
+        });
+}])
+
+.controller('controller', ['$scope', '$routeParams', 'create', function ($scope, $routeParams, create) {
     $scope.game = create.game()
         .add_player(
             create.player('Marion','M')
@@ -58,4 +85,13 @@ angular.module('amnezic',['model'])
                 )
         )
         ;
+
+    if ($scope.game && $routeParams.question_id) {
+        console.log($routeParams.question_id);
+        $scope.question = $scope.game.questions[$routeParams.question_id-1];
+    }
+    else {
+        $scope.question = null;
+    }
+
 }]);
